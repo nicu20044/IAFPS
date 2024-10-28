@@ -1,0 +1,4 @@
+@IAFPS_Back_HostAddress = http://localhost:5052
+
+GET {{IAFPS_Back_HostAddress}}/weatherforecast/
+Accept: application/json
